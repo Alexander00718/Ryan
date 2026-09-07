@@ -2136,9 +2136,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"happy-dom@npm:^20.13.2":
-  version: 20.13.2
-  resolution: "happy-dom@npm:20.13.2"
+"happy-dom@npm:^20.14.0":
+  version: 20.14.0
+  resolution: "happy-dom@npm:20.14.0"
   dependencies:
     "@types/node": "npm:>=20.0.0"
     "@types/whatwg-mimetype": "npm:^3.0.2"
@@ -2147,7 +2147,7 @@ __metadata:
     entities: "npm:^7.0.1"
     whatwg-mimetype: "npm:^3.0.0"
     ws: "npm:^8.21.0"
-  checksum: 10c0/d8002d6d009afa22b1b627b5d8b005051b86ed95edf3eebb5de9f22b17ef6a6f29b78b935d61ab18678af7b18ccf9647bc56b009ab6fd5dbbb30fe918402fa63
+  checksum: 10c0/087522c27a8ad0e95eadd29282cd90ba15fd69b2a8f15f2ac676b6912d8cb9cb6bbfb8d2483d060994fe3f8938647cd925496f585ff742579ae7a6179752a709
   languageName: node
   linkType: hard
 
@@ -3278,14 +3278,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"postcss@npm:^8.5.27":
-  version: 8.5.27
-  resolution: "postcss@npm:8.5.27"
+"postcss@npm:^8.5.28":
+  version: 8.5.28
+  resolution: "postcss@npm:8.5.28"
   dependencies:
     nanoid: "npm:^3.3.18"
     picocolors: "npm:^1.1.1"
     source-map-js: "npm:^1.2.1"
-  checksum: 10c0/3d269bd1a2990370771176740d9a331cbbe0df516539400547f51d656c2f778cbef974d6a63020f28b298d3c374e9055013a3ee3c48159c862e3c5b960796b63
+  checksum: 10c0/9fe44215a6628d89c8a75184b92f5b2f77e16f9e5b13b39b9009bb7e8e6eccddf82c8854bae922db1f17ace6ef3445073fe38abff513caeb03e5285b1b55620a
   languageName: node
   linkType: hard
 
@@ -4242,12 +4242,12 @@ __metadata:
     axios: "npm:^1.20.0"
     chart.js: "npm:^4.5.1"
     framer-motion: "npm:^13.2.0"
-    happy-dom: "npm:^20.13.2"
+    happy-dom: "npm:^20.14.0"
     husky: "npm:^9.1.7"
     jsdom: "npm:^30.0.1"
     jspdf: "npm:^4.2.1"
     lucide-react: "npm:^1.40.0"
-    postcss: "npm:^8.5.27"
+    postcss: "npm:^8.5.28"
     react: "npm:^19.2.8"
     react-chartjs-2: "npm:^5.3.1"
     react-dom: "npm:^19.2.8"
