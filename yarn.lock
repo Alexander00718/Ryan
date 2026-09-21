@@ -989,12 +989,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/react-dom@npm:^19.2.7":
-  version: 19.2.7
-  resolution: "@types/react-dom@npm:19.2.7"
+"@types/react-dom@npm:^19.3.0":
+  version: 19.3.0
+  resolution: "@types/react-dom@npm:19.3.0"
   peerDependencies:
-    "@types/react": ^19.2.0
-  checksum: 10c0/226ab7e2b62114125e2276b3dcc3a25060177a673f8abadb7e31f395003de72ad68075c6edc5f51b02dd1e47443920ee030239c474c47fad075ded7410836909
+    "@types/react": ^19.3.0
+  checksum: 10c0/ce0066d28b62bc6afdd17ca84756b8fbe0f6ffc0c8b1e60739abc30e81510da2edbc1007e6ab3d974d30f5a8c25bb0f7de8d7ce09736c909fe84c0f9aed0b946
   languageName: node
   linkType: hard
 
@@ -1005,12 +1005,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/react@npm:^19.2.18":
-  version: 19.2.18
-  resolution: "@types/react@npm:19.2.18"
+"@types/react@npm:^19.3.0":
+  version: 19.3.0
+  resolution: "@types/react@npm:19.3.0"
   dependencies:
     csstype: "npm:^3.2.2"
-  checksum: 10c0/d04216172b4b4362b310017c210dfbe019fb4f4e7dffd0313e70b3acb3051d5c3e76e7e84e3cf4c6a3c824993ffadfe3949e589a6398a09d4200e7670e2962de
+  checksum: 10c0/fbcabf303f935ca9f36ed2dcf81751cf84744098c5a683c8a62a0fa7edd31714b48d5c46b12fd0014f7f2dfe4d9ec6de428a850748eec719a70294e51029551b
   languageName: node
   linkType: hard
 
@@ -2039,12 +2039,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"framer-motion@npm:^13.2.0":
-  version: 13.2.0
-  resolution: "framer-motion@npm:13.2.0"
+"framer-motion@npm:^13.4.0":
+  version: 13.4.0
+  resolution: "framer-motion@npm:13.4.0"
   dependencies:
-    motion-dom: "npm:^13.2.0"
-    motion-utils: "npm:^13.0.0"
+    motion-dom: "npm:^13.3.0"
+    motion-utils: "npm:^13.3.0"
     tslib: "npm:^2.4.0"
   peerDependencies:
     react: ^18.0.0 || ^19.0.0
@@ -2054,7 +2054,7 @@ __metadata:
       optional: true
     react-dom:
       optional: true
-  checksum: 10c0/b381cf2c6f9def6ae169c096f9f873b0dafc8343fbdc78cc3d27e3ede2e8f682b22e1160a1f8cde07f263993aecab2c94239a43702fe4f06eccaeba109fcff13
+  checksum: 10c0/1cba0f674c0a3893c7803876a54fa2c2c66a1a06665668cc8145909478cc6d78944c85a8eb9bdc169c61b3163cc597a2c0ebd0bcc37c2e3410e5960950b5d40b
   languageName: node
   linkType: hard
 
@@ -2654,12 +2654,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"lucide-react@npm:^1.40.0":
-  version: 1.40.0
-  resolution: "lucide-react@npm:1.40.0"
+"lucide-react@npm:^1.47.0":
+  version: 1.47.0
+  resolution: "lucide-react@npm:1.47.0"
   peerDependencies:
     react: ^16.5.1 || ^17.0.0 || ^18.0.0 || ^19.0.0
-  checksum: 10c0/1476dc55fb8775152f535d1155bd2c7f62eb723ad63e3b1548dfb80be4a4984a979eda0023da49ea221014a8884321b40b2716c60f517b4089ff3d8f8521bb08
+  checksum: 10c0/d32cbd9e3490bf5b3a4b4d8a0030aa3f73165c0dafe26b0207053fc159733860bc790e17266d3ff9ff2c58858719c08178832d10330f50506d26d8213633a05f
   languageName: node
   linkType: hard
 
@@ -3111,19 +3111,19 @@ __metadata:
   languageName: node
   linkType: hard
 
-"motion-dom@npm:^13.2.0":
-  version: 13.2.0
-  resolution: "motion-dom@npm:13.2.0"
+"motion-dom@npm:^13.3.0":
+  version: 13.3.0
+  resolution: "motion-dom@npm:13.3.0"
   dependencies:
-    motion-utils: "npm:^13.0.0"
-  checksum: 10c0/009725cf822940fcd10e20492cfd0be50f11db9b5f1b374dd2fddbe2bc53db80c7f44d02c8bf68e2b9baaa8335aba45bd2a860176b3c23685ca8b59ca69db6b7
+    motion-utils: "npm:^13.3.0"
+  checksum: 10c0/b59ee63a4a487abb571159853d9bb47c02740d9707f01b91440b2d157af26cde16db5ebf29d1b5e19aabccc9dcb9ec763e9bbf931fdf25beae2af3e4d0f9652d
   languageName: node
   linkType: hard
 
-"motion-utils@npm:^13.0.0":
-  version: 13.0.0
-  resolution: "motion-utils@npm:13.0.0"
-  checksum: 10c0/4b279ce85f71926d668ff5966feb898b174541d16952a61c7150982388553266602ecd2a76e057530076ff8f38d06672e585639ddc73c41dd1a67d04aaa3662d
+"motion-utils@npm:^13.3.0":
+  version: 13.3.0
+  resolution: "motion-utils@npm:13.3.0"
+  checksum: 10c0/9efb8388cc43501d1d6d1f2997fdd3a9e4c2bd42c57c3979586fdbcc83969a3b9aae7e3108cfb53312db0a46d945ad1b4d54ad388a6585f2eb5f5e742a58d927
   languageName: node
   linkType: hard
 
@@ -3347,14 +3347,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react-dom@npm:^19.2.8":
-  version: 19.2.8
-  resolution: "react-dom@npm:19.2.8"
+"react-dom@npm:^19.3.0":
+  version: 19.3.0
+  resolution: "react-dom@npm:19.3.0"
   dependencies:
-    scheduler: "npm:^0.27.0"
+    scheduler: "npm:^0.28.0"
   peerDependencies:
-    react: ^19.2.8
-  checksum: 10c0/41ba2247b76f687fcfe5bbc99f514d6b851d8c8041c2f5ded36ed05bd7fdc5208cacbac9de51e3e6633e77f96f44cec9f0d4a5a55184dba4e00738f224439134
+    react: ^19.3.0
+  checksum: 10c0/c513044b724dd6bfe9500a9682d60973e7f8a48cffba00b6b16d3e910e27dcc459bf71bf0a5c33d7d62a3843ca30de1bd1e2098058aa4ed71f618a24b6061da5
   languageName: node
   linkType: hard
 
@@ -3394,10 +3394,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react@npm:^19.2.8":
-  version: 19.2.8
-  resolution: "react@npm:19.2.8"
-  checksum: 10c0/5f86bdb56426652fd6d989d30a6f2e603c057272c47c9ca3a3fbe190a3a39ee9ccce937d63cfc039717abed1b8891d6a499134bc35311acc07eafdacd86537cd
+"react@npm:^19.3.0":
+  version: 19.3.0
+  resolution: "react@npm:19.3.0"
+  checksum: 10c0/dd3099c3c43a7122bc01223bb26b0f8d5ba13cca569af6fb94a005fb54fa73223c9cb203bb226d40cfd49a82cbeef2e36ce84062a3a6d5b9fe8f4437694c7b52
   languageName: node
   linkType: hard
 
@@ -3524,10 +3524,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"scheduler@npm:^0.27.0":
-  version: 0.27.0
-  resolution: "scheduler@npm:0.27.0"
-  checksum: 10c0/4f03048cb05a3c8fddc45813052251eca00688f413a3cee236d984a161da28db28ba71bd11e7a3dd02f7af84ab28d39fb311431d3b3772fed557945beb00c452
+"scheduler@npm:^0.28.0":
+  version: 0.28.0
+  resolution: "scheduler@npm:0.28.0"
+  checksum: 10c0/783c8e5ce89d41273a02ed6dc0e3d24bd60e05c9e8f7e3adfc6c82e7c69935500d90e343f1ee26d592fc7504e8a2532573c6368def3e93bfe812391fa53efaf4
   languageName: node
   linkType: hard
 
@@ -4110,10 +4110,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"web-vitals@npm:^6.1.1":
-  version: 6.2.1
-  resolution: "web-vitals@npm:6.2.1"
-  checksum: 10c0/6f5cfb5875f6164898ea1097067a8ab29ed6fbd9ad38ac7ea519c110bf1d38a441a5b1e38d18f3afd17c62f9aaa88b6bac3b719bd8e29660f6d939bc12640508
+"web-vitals@npm:^6.2.2":
+  version: 6.2.2
+  resolution: "web-vitals@npm:6.2.2"
+  checksum: 10c0/dda70c450470680decfe6cb4e04550b28843e697b1ed7634e51fb1e14b2c4056daffa66b593ab3f8134a8f214c885a4913353b34836273f72d73036a561a12dc
   languageName: node
   linkType: hard
 
@@ -4231,8 +4231,8 @@ __metadata:
     "@testing-library/react": "npm:^16.3.2"
     "@testing-library/user-event": "npm:^14.6.7"
     "@types/node": "npm:^26.4.1"
-    "@types/react": "npm:^19.2.18"
-    "@types/react-dom": "npm:^19.2.7"
+    "@types/react": "npm:^19.3.0"
+    "@types/react-dom": "npm:^19.3.0"
     "@types/react-gtm-module": "npm:^2.0.4"
     "@typescript/native": "npm:typescript@^7.0.2"
     "@vitejs/plugin-react": "npm:^6.0.5"
@@ -4241,16 +4241,16 @@ __metadata:
     autoprefixer: "npm:^10.5.4"
     axios: "npm:^1.20.0"
     chart.js: "npm:^4.5.1"
-    framer-motion: "npm:^13.2.0"
+    framer-motion: "npm:^13.4.0"
     happy-dom: "npm:^20.13.2"
     husky: "npm:^9.1.7"
     jsdom: "npm:^30.0.1"
     jspdf: "npm:^4.2.1"
-    lucide-react: "npm:^1.40.0"
+    lucide-react: "npm:^1.47.0"
     postcss: "npm:^8.5.27"
-    react: "npm:^19.2.8"
+    react: "npm:^19.3.0"
     react-chartjs-2: "npm:^5.3.1"
-    react-dom: "npm:^19.2.8"
+    react-dom: "npm:^19.3.0"
     react-gtm-module: "npm:^2.0.11"
     react-markdown: "npm:^10.1.0"
     styled-components: "npm:^6.5.3"
@@ -4259,7 +4259,7 @@ __metadata:
     typescript: "npm:@typescript/typescript6@^6.0.2"
     vite: "npm:^8.2.0"
     vitest: "npm:^5.0.0"
-    web-vitals: "npm:^6.1.1"
+    web-vitals: "npm:^6.2.2"
   languageName: unknown
   linkType: soft
 
